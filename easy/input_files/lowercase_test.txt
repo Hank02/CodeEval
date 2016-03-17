@@ -1,0 +1,4 @@
+HELLO CODEEVAL
+This is some text
+here is another line
+ThiS iS MEANT to screW WIth your FunCtiOn (and YOUR heaD)
