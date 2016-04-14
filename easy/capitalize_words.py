@@ -1,4 +1,4 @@
-# Read string from file and print in lowercase
+# Read string from file and print in title case
 
 import sys
 
@@ -10,7 +10,7 @@ def file_open():
     test_cases = open(in_file, "r")
     return test_cases
 
-# funtion to print in lowercase
+# funtion to print in title case
 def cap_first(instring):
     # convert string into list by splitting words into elements
     as_list = instring.split()
